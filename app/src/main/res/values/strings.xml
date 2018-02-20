@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_sub_activity_gallery">Select Photos</string>
+    <string name="title_activity_cropmulti">Crop Photos</string>
+    <string name="title_sub_activity_cropmulti">Pinch to Zoom - Drag to Pan</string>
+    <string name="title_activity_crop">Crop Photo</string>
+    <string name="title_sub_activity_crop">Pinch to Zoom - Drag to Pan</string>
+
+    <string name="action_add_photo">Add Photo</string>
+    <string name="action_crop_photo">Crop Photo</string>
+    <string name="action_done">Done</string>
+
+    <string name="text_select_photo">Select Photo</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_image_width">80dp</dimen>
+    <dimen name="merge_photo_border">4dp</dimen>
+
+</resources>
